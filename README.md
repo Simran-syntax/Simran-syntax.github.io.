@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Simran!
 - 🎓 I'm currently pursuing B.Tech in Electronics (ECE) at GNDEC, Ludhiana.
 - 🌱 I’m passionate about learning coding and exploring new technologies.
-- 📊 I've completed a course in MS Excel and earned a certificate for it.
+- 📊 I've completed a course in MS Excel and earned a certificate for it. here is the link https://in.docworkspace.com/d/sICC0wMVh9oKHtQY?sa=wa&ps=1&fn=Simran.pdf
 - 📚 I enjoy reading self-growth books, listening to music, and watching podcasts in my free time.
 
 ## Interests
